@@ -11,7 +11,7 @@ const defaultOpts = {
   bullet: '\u2022 ',
   TextComponent: Text,
   textComponentProps: null,
-  NodeComponent: Text,
+  NodeComponent: View,
   nodeComponentProps: null,
 };
 
